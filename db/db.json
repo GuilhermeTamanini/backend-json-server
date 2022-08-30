@@ -1,0 +1,86 @@
+{
+  "livros": [
+    {
+      "nome": "Como treinar o seu dragão",
+      "categoria": "Horror",
+      "editora": "Hednaldo prodções",
+      "autor": "Reginaldo",
+      "id": 1
+    },
+    {
+      "nome": "Ocultismo - Visão de um novo mundo",
+      "categoria": "Sci-fi",
+      "editora": "Hednaldo prodções",
+      "autor": "Clodoaldo",
+      "id": 2
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "Hednaldo prodções",
+      "id": 2
+    },
+    {
+      "nome": "Dougras Produções",
+      "id": 3
+    },
+    {
+      "nome": "BYll Gatis Produções",
+      "id": 4
+    },
+    {
+      "nome": "dwdawad",
+      "id": 5
+    }
+  ],
+  "categorias": [
+    {
+      "nome": "Horror",
+      "id": 1
+    },
+    {
+      "nome": "Sci-fi",
+      "id": 2
+    },
+    {
+      "nome": "Aventura",
+      "id": 3
+    },
+    {
+      "nome": "Drama",
+      "id": 4
+    },
+    {
+      "nome": "Comédia",
+      "id": 5
+    },
+    {
+      "nome": "Isekai",
+      "id": 6
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Clodoaldo",
+      "descricao": "Ñ sei",
+      "id": 1
+    },
+    {
+      "nome": "Reginaldo",
+      "descricao": "Ñ sei",
+      "id": 2
+    },
+    {
+      "nome": "Lukas",
+      "id": 3
+    },
+    {
+      "nome": "Ornamento da Silva",
+      "id": 4
+    },
+    {
+      "nome": "Espada Calibrada em10ATM",
+      "id": 5
+    }
+  ]
+}

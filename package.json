@@ -1,0 +1,16 @@
+{
+  "name": "json-server-backend-livraria-eduardo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "json-server-relationship": "^0.14.5"
+  }
+}
